@@ -1,0 +1,10 @@
+{
+  "simulation": "computerdatabase.MySimu",
+  "simulationId": "mysimu-20230209180504927",
+  "start": 1675965905613,
+  "description": "",
+  "scenarios": ["User"],
+  "assertions": [
+
+  ]
+}
